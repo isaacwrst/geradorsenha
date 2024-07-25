@@ -19,7 +19,7 @@ body{
     background-color: var(--cor-de-fundo);
     font-family: var(--roboto);
 }
-img{
+.img{
     width: 30%;
 }
 
