@@ -4,7 +4,7 @@
 
 
 :root{
-    --branco: white;
+    --branco: rgb(0, 195, 255);
     --cor-de-fundo: #0e3661;
     --fundo-senha: #042750;
     --fundo-texto: #092a50;
