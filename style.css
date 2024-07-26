@@ -2,10 +2,10 @@
 
 :root{
     --branco: white;
-    --cor-de-fundo: #003063;
-    --fundo-senha: #4570a1;
+    --cor-de-fundo: #0e3661;
+    --fundo-senha: #042750;
     --fundo-texto: #0058bd;
-    --borda: #0075FF;
+    --borda: #7288a1;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -20,7 +20,7 @@ body{
     font-family: var(--roboto);
 }
 .img{
-    width: 30%;
+    width: 15%;
 }
 
 .titulo-principal{
