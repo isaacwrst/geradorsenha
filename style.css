@@ -1,10 +1,13 @@
+<style>
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+</style>
+
 
 :root{
     --branco: white;
     --cor-de-fundo: #0e3661;
     --fundo-senha: #042750;
-    --fundo-texto: #0058bd;
+    --fundo-texto: #092a50;
     --borda: #7288a1;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
